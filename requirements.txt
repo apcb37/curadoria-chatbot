@@ -1,0 +1,8 @@
+requirements
+
+
+pandas
+nltk
+scikit-learn
+matplotlib
+seaborn
